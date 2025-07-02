@@ -16,12 +16,12 @@ Eu sou Ângelo Giroletto, sou um Programador Front End, atualmente estou aprende
 ### Connect with me:
 <p>
 <a href="https://www.instagram.com/angelogiroletto_/">
-<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" fill= "#fff" />
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"  />
 </a>
 </p>
 
 <a href="https://www.linkedin.com/in/angelo-giroletto-8b8a25326/">
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" fill= "#fff" />
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 </p>
 <br />
